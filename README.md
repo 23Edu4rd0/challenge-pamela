@@ -18,6 +18,7 @@ isso é o jogo do amigo secreto onde você adiciona o nome dos seus amigos e sor
 - `Funcionalidade 1`: O Usuário pode adicionar o nome dos seus amigos 
 - `Funcionalidade 2`: E no botão Sortear Amigo, ele vai escolher aleatoriamente entre os nomes que o usuário adicionou.
 
+# Demonstração das funcionalidades:
 
 https://github.com/user-attachments/assets/2c30c329-4768-4bb6-8384-1822bb985e0a
 
