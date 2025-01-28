@@ -28,7 +28,7 @@ function atualizarLista() {
 
 function sortearAmigo() {
    if (amigos.length < 2) {
-    alert('Digite pelo menos dois numeros para sortear!');   
+    alert('Digite pelo menos dois nomes para sortear!');   
     } else {
         let indiceSorteado = Math.floor(Math.random() * amigos.length);
         nomeSorteado = amigos[indiceSorteado];
