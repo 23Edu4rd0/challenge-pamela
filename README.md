@@ -20,9 +20,11 @@ isso é o jogo do amigo secreto onde você adiciona o nome dos seus amigos e sor
 
 # Demonstração das funcionalidades:
 
+Acesse aqui para testar: https://challenge-amigo-secreto-ruddy.vercel.app/
+
 https://github.com/user-attachments/assets/2c30c329-4768-4bb6-8384-1822bb985e0a
 
-# Autores
+# Autora
 
 | [<img loading="lazy" src="https://github.com/user-attachments/assets/d22dc970-19db-4f4b-af31-bcca3d1ccd5e" width=115><br><sub>Pamela Amaro </sub>](https://github.com/paamelaamaro) 
 | :---: | 
